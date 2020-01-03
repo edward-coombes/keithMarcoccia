@@ -1,0 +1,18 @@
+{
+  "name": "keith-marcoccia",
+  "version": "1.0.0",
+  "description": "Keith's personal resume / content exhibition website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ejs": "^3.0.1",
+    "electron": "^7.1.7",
+    "express": "^4.17.1",
+    "officeparser": "^2.1.1"
+  }
+}
